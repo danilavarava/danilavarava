@@ -1,222 +1,210 @@
 ```md
 <div align="center">
 
-# ⚡ DANILAVARAVA
+# DANILAVARAVA
 
-### `Developer • Creator • Explorer`
-
-<br>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > INITIALIZING DANILAVARAVA...                             ║
-║                                                              ║
-║   [████████████████████████████████████] 100%                ║
-║                                                              ║
-║   STATUS   : ONLINE                                          ║
-║   MODE     : BUILD                                           ║
-║   MISSION  : CREATE SOMETHING GREAT                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### `Building ideas into reality.`
 
 <br>
 
-`💻 CODE` &nbsp; `⚡ CREATE` &nbsp; `🧠 LEARN` &nbsp; `🚀 BUILD`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danilavarava)
+[![Profile](https://img.shields.io/badge/PROFILE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danilavarava)
 
 </div>
 
 ---
 
-## 👨‍💻 ОБО МНЕ
-
-> **«Не просто пишу код — создаю идеи, которые работают.»**
-
-Привет! Я **Данил** — начинающий разработчик, который любит
-создавать проекты, экспериментировать с технологиями и постоянно
-развиваться.
-
-Мне нравится разбираться в сложных вещах, находить нестандартные
-решения и превращать идеи в работающий код.
+## 👋 About Me
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  💻 DEVELOPMENT                                              │
-│  └─ Создаю проекты и изучаю программирование                 │
-│                                                              │
-│  🧠 LEARNING                                                 │
-│  └─ Постоянно осваиваю новые технологии                      │
-│                                                              │
-│  ⚙️ EXPERIMENT                                                │
-│  └─ Проверяю идеи на практике                                │
-│                                                              │
-│  🚀 GROWTH                                                    │
-│  └─ Каждый новый проект — новый уровень                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Привет! Я Данил.
+
+Развиваюсь в программировании, создаю собственные проекты
+и постоянно экспериментирую с новыми технологиями.
+
+Мне интересно не просто изучать код,
+а понимать, как всё работает изнутри.
+```
+
+### `> whoami`
+
+```yaml
+name: Danil
+username: danilavarava
+role: Developer
+status: Learning & Building
+focus:
+  - Programming
+  - Personal Projects
+  - Automation
+  - New Technologies
+mindset: "Learn. Build. Improve."
 ```
 
 ---
 
-## ⚡ МОЙ ПОДХОД
+## ⚡ What I Do
 
-```text
-              ┌─────────────┐
-              │    ИДЕЯ     │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │     КОД     │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │    ОШИБКА   │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │   РЕШЕНИЕ   │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │    ОПЫТ     │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │  РЕЗУЛЬТАТ  │
-              └─────────────┘
+<table>
+<tr>
+<td width="50%">
 
-                  REPEAT ♻️
-```
+### 💻 Development
+
+Создаю проекты, пишу код и
+постепенно превращаю идеи
+в рабочие решения.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Learning
+
+Постоянно изучаю новые
+технологии и пытаюсь
+расширять свои возможности.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ Experimenting
+
+Люблю пробовать разные
+подходы и находить
+нестандартные решения.
+
+</td>
+
+<td width="50%">
+
+### 🚀 Building
+
+Главное для меня —
+не только учиться,
+но и создавать.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ TECHNOLOGIES
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 LANGUAGES
+### Languages
 
-`Python` • `JavaScript` • `HTML` • `CSS`
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
-### ⚙️ TOOLS
+### Tools
 
-`Git` • `GitHub` • `VS Code` • `Linux`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
 ---
 
-## 🚀 CURRENTLY
+## 🚧 Currently Building
 
 ```text
-[+] Изучаю программирование
-[+] Создаю собственные проекты
-[+] Развиваю навыки разработки
-[+] Экспериментирую с технологиями
-[+] Изучаю новые инструменты
-[+] Ищу новые идеи
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  PROJECT STATUS                                         │
+│                                                         │
+│  ████████████████████████████████████░░░░░░  85%       │
+│                                                         │
+│  → Learning                                             │
+│  → Experimenting                                        │
+│  → Building                                             │
+│  → Improving                                            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
+
+> **The best project is the one you're building right now.**
 
 ---
 
-## 📂 PROJECTS
+## 🎯 Goals
 
-### ⚡ Featured Project
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  🚧 PROJECT IN DEVELOPMENT                                   │
-│                                                              │
-│  Something interesting is being built...                    │
-│                                                              │
-│  Progress: [████████████████░░░░] 80%                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-> Здесь скоро появится мой следующий проект.
+- 🚀 Создавать всё более сложные проекты
+- 🧠 Глубже изучать программирование
+- ⚙️ Осваивать новые технологии
+- 🌐 Начать активнее работать с Open Source
+- 💡 Превращать идеи в реальные продукты
 
 ---
 
-## 🎯 GOALS
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  [ ] Создать большой собственный проект     │
-│  [ ] Изучить новые технологии                │
-│  [ ] Улучшить навыки программирования       │
-│  [ ] Попробовать Open Source                 │
-│  [ ] Создать что-то действительно крутое    │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 📊 GITHUB STATS
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danilavarava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=danilavarava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danilavarava&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danilavarava&theme=tokyonight&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=danilavarava&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 📈 CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danilavarava&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 CONNECT
-
-<div align="center">
-
-### `github.com/danilavarava`
-
-<br>
-
-```text
-> Let's build something great.
-```
-
-<br>
-
-**⚡ BUILD. LEARN. IMPROVE. REPEAT.**
-
-</div>
-
----
+## 🧩 Philosophy
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    THANKS FOR VISITING                       ║
-║                                                              ║
-║                 github.com/danilavarava                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+        LEARN
+          ↓
+        BUILD
+          ↓
+       BREAK
+          ↓
+        FIX
+          ↓
+       IMPROVE
+          ↓
+        REPEAT
 ```
+
+### `There is always something new to build.`
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-danilavarava-181717?style=for-the-badge&logo=github)](https://github.com/danilavarava)
+
+<br><br>
+
+```text
+github.com/danilavarava
+```
+
+<br>
+
+### ⚡ Build something worth remembering.
+
+</div>
+
+---
+
+<div align="center">
+
+`© 2026 DANILAVARAVA`
 
 </div>
 ```
+
+Этот вариант уже ближе к **премиальному dev-профилю**: меньше бессмысленного текста, больше структуры, стек, статистика и аккуратный визуальный стиль.
