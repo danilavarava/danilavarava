@@ -1,128 +1,68 @@
 ```md
 <div align="center">
 
-# DANILAVARAVA
+# danilavarava
 
-### `Developer • Creator • Explorer`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d9ff&height=180&section=header&text=DANILAVARAVA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+**Developer · Builder · Learner**
 
 <br>
 
-**💻 Programming** · **⚡ Projects** · **🧠 Learning** · **🚀 Development**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danilavarava)
 
 </div>
 
 ---
 
-## 👋 Обо мне
+## About
 
-> **Не просто пишу код — создаю идеи, которые работают.**
+Привет! Я **Данил**, начинающий разработчик.
 
-Привет! Я **Данил** — начинающий разработчик.
+Изучаю программирование, создаю собственные проекты
+и постепенно превращаю идеи в работающие решения.
 
-Изучаю программирование, создаю собственные проекты,
-экспериментирую с технологиями и постоянно стараюсь
-становиться лучше.
+Мне нравится разбираться в том, как всё устроено,
+экспериментировать и постоянно совершенствовать свои навыки.
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## Currently
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  💻  Создаю проекты                          │
-│  🧠  Изучаю программирование                 │
-│  ⚙️  Экспериментирую с технологиями          │
-│  🚀  Развиваю свои навыки                    │
-│                                              │
-└──────────────────────────────────────────────┘
+Learning        programming & new technologies
+Building        personal projects
+Exploring       new ideas & tools
+Improving       every day
 ```
 
 ---
 
-## 🛠️ Мой стек
+## Goals
+
+- Build meaningful projects
+- Become a stronger developer
+- Learn new technologies
+- Explore open source
+- Turn ideas into reality
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux" />
+<img src="https://github-readme-stats.vercel.app/api?username=danilavarava&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff" width="48%"/>
 
-</div>
-
----
-
-## 🚀 Сейчас изучаю
-
-```text
-[████████████████████████████████░░░░░░░░] 80%
-
-→ Программирование
-→ Создание собственных проектов
-→ Git & GitHub
-→ Новые технологии
-→ Автоматизация
-```
-
----
-
-## 🎯 Цели
-
-- 🚀 Создавать собственные проекты
-- 🧠 Углублять знания в программировании
-- ⚙️ Изучать новые технологии
-- 🌐 Работать с Open Source
-- 💡 Превращать идеи в реальные проекты
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=danilavarava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danilavarava&theme=tokyonight&hide_border=true" width="49%">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danilavarava&theme=tokyo-night&hide_border=true" width="95%">
-
-</div>
-
----
-
-## ⚡ Мой принцип
-
-<div align="center">
-
-```text
-       LEARN
-         ↓
-       BUILD
-         ↓
-       BREAK
-         ↓
-        FIX
-         ↓
-      IMPROVE
-         ↓
-       REPEAT
-```
-
-### `Build. Learn. Improve. Repeat.`
-
-</div>
-
----
-
-## 🌐 Контакты
-
-<div align="center">
-
-<a href="https://github.com/danilavarava">
-<img src="https://img.shields.io/badge/GitHub-danilavarava-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-**github.com/danilavarava**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danilavarava&hide_border=true&theme=default&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000" width="48%"/>
 
 </div>
 
@@ -130,23 +70,34 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:6e40c9&height=100&section=footer"/>
+**Build quietly. Improve constantly.**
+
+<br>
+
+[github.com/danilavarava](https://github.com/danilavarava)
 
 </div>
 ```
 
-### ⚠️ Важно
+### Как будет выглядеть
 
-Если у тебя **вообще не получается вставить текст в README**, проблема не в коде.
+**danilavarava**  
+*Developer · Builder · Learner*
 
-Проверь, что репозиторий называется именно:
+↓
 
-```text
-danilavarava
-```
+**About** — короткое описание
 
-и находится здесь:
+**Stack** — аккуратные иконки технологий
 
-**GitHub → твой профиль → Repositories → `danilavarava` → `README.md` → ✏️**
+**Currently** — чем занимаешься сейчас
 
-Если хочешь, **скинь скриншот того, что у тебя сейчас открыто на GitHub**, и я скажу конкретно, **куда нажать**, чтобы оно заработало.
+**Goals** — цели
+
+**GitHub** — статистика
+
+↓
+
+*Build quietly. Improve constantly.*
+
+Это будет выглядеть гораздо **чище и дороже**, чем предыдущие версии.
