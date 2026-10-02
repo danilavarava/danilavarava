@@ -3,198 +3,126 @@
 
 # DANILAVARAVA
 
-### `Building ideas into reality.`
+### `Developer • Creator • Explorer`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d9ff&height=180&section=header&text=DANILAVARAVA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danilavarava)
-[![Profile](https://img.shields.io/badge/PROFILE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danilavarava)
+**💻 Programming** · **⚡ Projects** · **🧠 Learning** · **🚀 Development**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Обо мне
+
+> **Не просто пишу код — создаю идеи, которые работают.**
+
+Привет! Я **Данил** — начинающий разработчик.
+
+Изучаю программирование, создаю собственные проекты,
+экспериментирую с технологиями и постоянно стараюсь
+становиться лучше.
 
 ```text
-Привет! Я Данил.
-
-Развиваюсь в программировании, создаю собственные проекты
-и постоянно экспериментирую с новыми технологиями.
-
-Мне интересно не просто изучать код,
-а понимать, как всё работает изнутри.
-```
-
-### `> whoami`
-
-```yaml
-name: Danil
-username: danilavarava
-role: Developer
-status: Learning & Building
-focus:
-  - Programming
-  - Personal Projects
-  - Automation
-  - New Technologies
-mindset: "Learn. Build. Improve."
+┌──────────────────────────────────────────────┐
+│                                              │
+│  💻  Создаю проекты                          │
+│  🧠  Изучаю программирование                 │
+│  ⚙️  Экспериментирую с технологиями          │
+│  🚀  Развиваю свои навыки                    │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Development
-
-Создаю проекты, пишу код и
-постепенно превращаю идеи
-в рабочие решения.
-
-</td>
-
-<td width="50%">
-
-### 🧠 Learning
-
-Постоянно изучаю новые
-технологии и пытаюсь
-расширять свои возможности.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Experimenting
-
-Люблю пробовать разные
-подходы и находить
-нестандартные решения.
-
-</td>
-
-<td width="50%">
-
-### 🚀 Building
-
-Главное для меня —
-не только учиться,
-но и создавать.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Мой стек
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-## 🚧 Currently Building
+## 🚀 Сейчас изучаю
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  PROJECT STATUS                                         │
-│                                                         │
-│  ████████████████████████████████████░░░░░░  85%       │
-│                                                         │
-│  → Learning                                             │
-│  → Experimenting                                        │
-│  → Building                                             │
-│  → Improving                                            │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+[████████████████████████████████░░░░░░░░] 80%
+
+→ Программирование
+→ Создание собственных проектов
+→ Git & GitHub
+→ Новые технологии
+→ Автоматизация
 ```
 
-> **The best project is the one you're building right now.**
+---
+
+## 🎯 Цели
+
+- 🚀 Создавать собственные проекты
+- 🧠 Углублять знания в программировании
+- ⚙️ Изучать новые технологии
+- 🌐 Работать с Open Source
+- 💡 Превращать идеи в реальные проекты
 
 ---
 
-## 🎯 Goals
-
-- 🚀 Создавать всё более сложные проекты
-- 🧠 Глубже изучать программирование
-- ⚙️ Осваивать новые технологии
-- 🌐 Начать активнее работать с Open Source
-- 💡 Превращать идеи в реальные продукты
-
----
-
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=danilavarava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=danilavarava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danilavarava&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danilavarava&theme=tokyonight&hide_border=true" width="49%">
 
 <br><br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=danilavarava&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danilavarava&theme=tokyo-night&hide_border=true" width="95%">
 
 </div>
 
 ---
 
-## 🧩 Philosophy
+## ⚡ Мой принцип
 
 <div align="center">
 
 ```text
-        LEARN
-          ↓
-        BUILD
-          ↓
+       LEARN
+         ↓
+       BUILD
+         ↓
        BREAK
-          ↓
+         ↓
         FIX
-          ↓
-       IMPROVE
-          ↓
-        REPEAT
+         ↓
+      IMPROVE
+         ↓
+       REPEAT
 ```
 
-### `There is always something new to build.`
+### `Build. Learn. Improve. Repeat.`
 
 </div>
 
 ---
 
-## 🌐 Find Me
+## 🌐 Контакты
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-danilavarava-181717?style=for-the-badge&logo=github)](https://github.com/danilavarava)
+<a href="https://github.com/danilavarava">
+<img src="https://img.shields.io/badge/GitHub-danilavarava-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <br><br>
 
-```text
-github.com/danilavarava
-```
-
-<br>
-
-### ⚡ Build something worth remembering.
+**github.com/danilavarava**
 
 </div>
 
@@ -202,9 +130,23 @@ github.com/danilavarava
 
 <div align="center">
 
-`© 2026 DANILAVARAVA`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:6e40c9&height=100&section=footer"/>
 
 </div>
 ```
 
-Этот вариант уже ближе к **премиальному dev-профилю**: меньше бессмысленного текста, больше структуры, стек, статистика и аккуратный визуальный стиль.
+### ⚠️ Важно
+
+Если у тебя **вообще не получается вставить текст в README**, проблема не в коде.
+
+Проверь, что репозиторий называется именно:
+
+```text
+danilavarava
+```
+
+и находится здесь:
+
+**GitHub → твой профиль → Repositories → `danilavarava` → `README.md` → ✏️**
+
+Если хочешь, **скинь скриншот того, что у тебя сейчас открыто на GitHub**, и я скажу конкретно, **куда нажать**, чтобы оно заработало.
